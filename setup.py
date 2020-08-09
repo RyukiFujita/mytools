@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 _version_re = re.compile(r"__version__\s+=\s+(.*)")
 
-with io.open("mytools/__init__.py", "rt", encoding="utf8") as f :
+with io.open("__init__.py", "rt", encoding="utf8") as f :
     version = re.search(r"__version__ = \"(.*?)\"", f.read()).group(1)
 
 requires = [
