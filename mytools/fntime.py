@@ -10,6 +10,6 @@ def fntime(fn) :
         t2 = time.time()
         fn_name = cf.green(fn.__name__.ljust(30))
         proc_time = cf.yellow(f"{t2-t1:>15.10f}")
-        print(f"@measure_time: {fn_name} took {proc_time} seconds")
+        print(f"function:{fn_name} took {proc_time} seconds")
         return result
     return wrapper
