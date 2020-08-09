@@ -1,7 +1,25 @@
-# mytools
+mytools
+==========
 My python tools
+どんどん追加予定．ネタ募集中です．
+こんなのあったらいいなとかアイデアあったら気軽に[twitter](https://twitter.com/lal_ryuki)に連絡ください．
 
-## 関数の処理時間を表示
+インストール アンインストール
+==========
+インストール  
+```
+$ pip install git+https://github.com/ryukifujita/mytools
+```
+
+アンインストール  
+```
+$ pip uninstall mytools
+```
+
+使い方
+==========
+
+## @fntime：関数の処理時間を表示するデコレータ
 計測したい関数に@fntimeを付ける
 ``` tests/fntime_test.py
 
