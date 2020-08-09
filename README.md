@@ -26,4 +26,4 @@ fuga()
 hoga()
 ```
 出力
-![出力]("https://github.com/RyukiFujita/mytools/blob/images/fntime_result.png")
+![出力](https://raw.githubusercontent.com/RyukiFujita/blob/images/fntime_result.png)
