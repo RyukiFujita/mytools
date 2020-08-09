@@ -4,6 +4,7 @@ My python tools
 ## 関数の処理時間を表示
 計測したい関数に@fntimeを付ける
 ``` tests/fntime_test.py
+
 from mytools import fntime
 
 @fntime
@@ -24,6 +25,7 @@ def hoga() :
 hoge()
 fuga()
 hoga()
+
 ```
 出力
 ![出力](https://raw.githubusercontent.com/RyukiFujita/mytools/images/fntime_result.png)
