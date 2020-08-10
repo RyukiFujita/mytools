@@ -6,7 +6,7 @@ My python tools
 
 ##### インストール  
 ```
-$ pip install git+https://github.com/ryukifujita/mytools
+$ pip install git+https://github.com/RyukiFujita/mytools
 ```
 
 ##### アンインストール  
