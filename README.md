@@ -2,7 +2,7 @@ mytools
 ==========
 My python tools  
 どんどん追加予定．ネタ募集中です．  
-こんなのあったらいいなとかアイデアあったら気軽に[twitter](https://twitter.com/lal_ryuki)に連絡ください．  
+こんなのあったらいいなとかアイデアあったら気軽に[twitter](https://twitter.com/neuzen_ryuki)に連絡ください．  
 
 ##### インストール  
 ```
